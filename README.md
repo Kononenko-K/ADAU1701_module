@@ -1,4 +1,4 @@
-# __Private__ADAU1701_module
+# ADAU1701_module
 SigmaDSP audio module with SigmaLink-USBi compatible programmer and USB digital isolator included
 <br/>
 <p align="center">
